@@ -1,0 +1,17 @@
+== Changelog ==
+= Theme Name: One Page Pro =
+
+= Version: 1.2 =
+Date : 09-07-2016
+-------------------
+* iframe sanitization issue fixed.
+* HTML tag related issue fixed.
+
+= Version: 1.1 =
+Date : 20-05-2016
+-------------------
+* Widget area(widget page) issue fixed.
+* Sanitization function improved.
+
+= Version: 1.0 =
+* Initial released.

@@ -1,0 +1,78 @@
+/*Box container css*/
+.box_container,
+.header{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+body{
+    background: #E2E2E2;
+}
+.box_container{
+    background-color: #fff;
+}
+.header{}
+@media only screen and (min-width: 1200px) and (max-width: 1448px){
+    .box_container,
+    .header{
+        max-width: 1170px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width:1199px){
+    .box_container,
+    .header,
+    .mean-container .mean-bar{
+        max-width: 970px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media only screen and (max-width: 992px){
+    .mean-container .mean-bar{
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width:991px){
+    .box_container,
+    .mean-container .mean-bar{
+        max-width: 750px;
+    }
+}
+@media only screen and (max-width: 767px){
+    .box_container,
+    .mean-container .mean-bar{
+        max-width: 90%;
+    }
+}
+/*Scroll Up*/
+
+@media only screen and (min-width: 1024px){
+    .cd-top {
+        right: 7%;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .cd-top {
+        right: 5%;
+    }
+    a.cd-top span {
+    left: 13px;
+}
+}
+@media only screen and (min-width: 769px) and (max-width:1023px) {
+    .cd-top {
+        right: 3%;
+    }
+}
+@media only screen and (min-width: 810px) and (max-width:1007px) {
+        .cd-top {
+        right: 13%;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .cd-top {
+        right: 8%;
+    }
+
+}

@@ -1,0 +1,590 @@
+# Translation of Plugins - Easy FancyBox - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - Easy FancyBox - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-11 08:47:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Easy FancyBox - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://status301.net/"
+msgstr "http://status301.net/"
+
+#. Author of the plugin/theme
+msgid "RavanH"
+msgstr "RavanH"
+
+#. Description of the plugin/theme
+msgid "Easily enable the <a href=\"http://fancybox.net/\">FancyBox jQuery extension</a> on all image, SWF, PDF, YouTube, Dailymotion and Vimeo links. Also supports iFrame and inline content."
+msgstr "Jednoduše povolte <a href=\"http://fancybox.net/\">FancyBox jQuery rozšíření</a> na všechny typy obrázků, SWF, PDF, YouTube, Dailymotion a Vimeo odkazy. Rovněž podporuje iFrame a vkládaný obsah."
+
+#. Plugin URI of the plugin/theme
+msgid "http://status301.net/wordpress-plugins/easy-fancybox/"
+msgstr "http://status301.net/wordpress-plugins/easy-fancybox/"
+
+#: easy-fancybox-settings.php:1446
+msgid "To make a website or HTML document open in an overlay, use the class \"fancybox-iframe\" for its link."
+msgstr "Pro otevření jakékoliv stránky nebo HTML dokumentu v rámečku prosím použijte příkaz \"fancybox-iframe\" pro tento odkaz."
+
+#: easy-fancybox-settings.php:1320
+msgid "To make any Dailymotion movie open in an overlay, switch on Autodetect or use the class \"fancybox-dailymotion\" for its link."
+msgstr "Pro otevření jakéhokoliv Dailymotion videa v rámečku prosím přepněte na Autodetekci nebo použijte příkaz \"fancybox-dailymotion\" pro tento odkaz."
+
+#: easy-fancybox-settings.php:1220
+msgid "To make any Vimeo movie open in an overlay, switch on Autodetect or use the class \"fancybox-vimeo\" for its link."
+msgstr "Pro otevření jakéhokoliv videa Vimeo v rámečku prosím přepněte na Autodetekci nebo použijte příkaz \"fancybox-vimeo\" pro tento odkaz."
+
+#: easy-fancybox-settings.php:1130
+msgid "Autodetect Short links"
+msgstr "Autodetekovat zkrácené odkazy"
+
+#: easy-fancybox-settings.php:1112
+msgid "To make any YouTube movie open in an overlay, switch on Autodetect or use the class \"fancybox-youtube\" for its link."
+msgstr "Pro otevření jakéhokoliv videa YouTube v rámečku prosím přepněte na Autodetekci nebo použijte příkaz \"fancybox-youtube\" pro tento odkaz."
+
+#: easy-fancybox-settings.php:1017
+msgid "To make any SVG (.svg) file open in an overlay, switch on Autodetect or use the class \"fancybox-svg\" for its link."
+msgstr "Pro otevření jakéhokoliv SVG (.svg) v rámečku prosím přepněte na Autodetekci nebo použijte příkaz \"fancybox-svg\" pro tento odkaz."
+
+#: easy-fancybox-settings.php:923
+msgid "To make any Flash (.swf) file open in an overlay, switch on Autodetect or use the class \"fancybox-swf\" for its link."
+msgstr "Pro otevření jakéhokoliv Flashe (.swf) v rámečku prosím přepněte na Autodetekci nebo použijte příkaz \"fancybox-swf\" pro tento odkaz."
+
+#: easy-fancybox-settings.php:798
+msgid "To make any PDF document file open in an overlay, switch on Autodetect or use the class \"fancybox-pdf\" for its link."
+msgstr "Pro otevření jakéhokoliv PDF dokumentu (.pdf) v rámečku prosím přepněte na Autodetekci nebo použijte příkaz \"fancybox-pdf\" pro tento odkaz."
+
+#: easy-fancybox-settings.php:719
+msgid "Define scrolling and scrollbar visibility."
+msgstr "Nastavte viditelnost lišty s posouváním."
+
+#: easy-fancybox-settings.php:716
+msgid "Never"
+msgstr "Nikdy"
+
+#: easy-fancybox-settings.php:715
+msgid "Always"
+msgstr "Vždy"
+
+#: easy-fancybox-settings.php:714
+msgid "Auto"
+msgstr "Automaticky"
+
+#: easy-fancybox-settings.php:710
+msgid "Scrolling"
+msgstr "Posouvání"
+
+#: easy-fancybox-settings.php:706
+msgid "Try to adjust size to inline/html content. If unchecked or size cannot be determined, the default dimensions will be used."
+msgstr "Pokusit se upravit velikost inline/html obsahu. Pokud ponecháte tuto volbu nezaškrtnutou nebo velikost nemůže být zjištěna, budou použity výchozí hodnoty."
+
+#: easy-fancybox-settings.php:688
+msgid "To make inline content open in an overlay, wrap that content in a div with a unique ID, create a link with target \"#uniqueID\" and give it a class \"fancybox-inline\" attribute."
+msgstr "Pro otevření obsahu v rámečku vložte tento obsah do div s unikátním ID, vytvořte odkaz s cílem \"#uniqueID\" a dejte této třídě atribut \"fancybox-inline\"."
+
+#: easy-fancybox-settings.php:660
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: easy-fancybox-settings.php:652
+msgid "(12 seconds)"
+msgstr "(12 sekund)"
+
+#: easy-fancybox-settings.php:652
+msgid "(9 seconds)"
+msgstr "(9 sekund)"
+
+#: easy-fancybox-settings.php:652
+msgid "(6 seconds)"
+msgstr "(6 sekund)"
+
+#: easy-fancybox-settings.php:652
+msgid "(3 seconds)"
+msgstr "(3 sekundy)"
+
+#: easy-fancybox-settings.php:652
+msgid "Auto-rotation uses a fixed 3, 6, 9 or 12 second pause per image."
+msgstr "Automatická rotace je funkční pro 3,6,9 nebo 12 sekund mezi obrázky"
+
+#: easy-fancybox-settings.php:652
+msgid "Hide/show title on mouse hover action works best with Overlay title position."
+msgstr "Ukázat/skrýt název po přejetí ukazatele myši - pracuje nejlépe s názvem umístěným v rámečku."
+
+#: easy-fancybox-settings.php:652
+msgid "Examples: If your theme wraps post content in a div with class post, change this value to \"div.post\". If you only want to group images in a WordPress gallery together, use \"div.gallery\". If you want to include images in a sidebar with ID primary, add \", #primary\"."
+msgstr "Příklad: Pokud Vaše šablona vkládá obsah příspěvku do div, změňte tuto hodnotu na \"div.post\". Pokud chcete pouze seskupit obrázky ve Wordpress galerii dohromady, použijte \"div.gallery\". Pokud chcete přidat obrázky v bočním panelu s ID, vložte  \", #primary\"."
+
+#: easy-fancybox-settings.php:652
+msgid "This applies when <em>Apply to</em> is set to <em>Limited to Sections</em> and/or <em>Autogallery</em> is set to <em>Galleries per Section</em>. Adapt it to conform with your theme."
+msgstr "Toto je použito pokud <em>Použít na</em> je nastaveno <em>Omezeno na sekci</em> a/nebo <em>Autogalerie</em> je nastaveno na <em>Galerie na sekci</em>. Uzpůsobte pro Vaši šablonu."
+
+#: easy-fancybox-settings.php:652
+msgid "Galleries per Section (below)"
+msgstr "Galerií na jednu sekci (níže)"
+
+#: easy-fancybox-settings.php:636
+msgid "Fade speed"
+msgstr "Rychlost pohasnutí"
+
+#: easy-fancybox-settings.php:624
+msgid "Change speed"
+msgstr "Změnit rychlost"
+
+#: easy-fancybox-settings.php:620
+msgid "Make galleries cyclic, allowing you to keep pressing next/back."
+msgstr "Cyklické posouvání v galerii"
+
+#: easy-fancybox-settings.php:613
+msgid "Include the Mousewheel jQuery extension script to allow gallery browsing by mousewheel action."
+msgstr "Zapnout skript pro pohyb v galerii pomocí kolečka myši."
+
+#: easy-fancybox-settings.php:606
+msgid "Arrow key strokes browse the gallery"
+msgstr "Stisk směrových kláves pro posun v galerii"
+
+#: easy-fancybox-settings.php:599
+msgid "Show the gallery navigation arrows"
+msgstr "Ukázat navigační šipky v galerii"
+
+#: easy-fancybox-settings.php:592
+msgid "When disabled, you can use the rel attribute to manually group image links together."
+msgstr "Pokud je vypnut, můžete použít rel vlastnost pro ruční seskupení odkazů obrázků dohromady."
+
+#: easy-fancybox-settings.php:589
+msgid "All in one gallery"
+msgstr "Vše v jedné galerii"
+
+#: easy-fancybox-settings.php:588
+msgid "WordPress galleries only"
+msgstr "Pouze Wordpress galerie"
+
+#: easy-fancybox-settings.php:582
+msgid "Autogallery"
+msgstr "Automatická galerie"
+
+#: easy-fancybox-settings.php:578
+msgid "Gallery"
+msgstr "Galerie"
+
+#: easy-fancybox-settings.php:571
+msgid "Hide/show title on mouse hover action"
+msgstr "Skrýt/zobrazit název po přejetí ukazatele"
+
+#: easy-fancybox-settings.php:567 easy-fancybox-settings.php:656
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: easy-fancybox-settings.php:563 easy-fancybox-settings.php:879
+#: easy-fancybox-settings.php:1002 easy-fancybox-settings.php:1097
+#: easy-fancybox-settings.php:1205 easy-fancybox-settings.php:1304
+#: easy-fancybox-settings.php:1404 easy-fancybox-settings.php:1531
+msgid "Allow title from thumbnail alt tag"
+msgstr "Povolit název z alt tagu."
+
+#: easy-fancybox-settings.php:552 easy-fancybox-settings.php:870
+#: easy-fancybox-settings.php:993 easy-fancybox-settings.php:1087
+#: easy-fancybox-settings.php:1196 easy-fancybox-settings.php:1295
+#: easy-fancybox-settings.php:1395 easy-fancybox-settings.php:1522
+msgid "Inside"
+msgstr "Vevnitř"
+
+#: easy-fancybox-settings.php:551 easy-fancybox-settings.php:869
+#: easy-fancybox-settings.php:992 easy-fancybox-settings.php:1086
+#: easy-fancybox-settings.php:1195 easy-fancybox-settings.php:1294
+#: easy-fancybox-settings.php:1394 easy-fancybox-settings.php:1521
+msgid "Outside"
+msgstr "Venku"
+
+#: easy-fancybox-settings.php:550 easy-fancybox-settings.php:868
+#: easy-fancybox-settings.php:991 easy-fancybox-settings.php:1085
+#: easy-fancybox-settings.php:1194 easy-fancybox-settings.php:1293
+#: easy-fancybox-settings.php:1393 easy-fancybox-settings.php:1520
+msgid "Float"
+msgstr "Plovoucí"
+
+#: easy-fancybox-settings.php:546 easy-fancybox-settings.php:864
+#: easy-fancybox-settings.php:987 easy-fancybox-settings.php:1081
+#: easy-fancybox-settings.php:1190 easy-fancybox-settings.php:1289
+#: easy-fancybox-settings.php:1389 easy-fancybox-settings.php:1516
+msgid "Title Position"
+msgstr "Pozice názvu"
+
+#: easy-fancybox-settings.php:542 easy-fancybox-settings.php:860
+#: easy-fancybox-settings.php:983 easy-fancybox-settings.php:1077
+#: easy-fancybox-settings.php:1186 easy-fancybox-settings.php:1285
+#: easy-fancybox-settings.php:1385 easy-fancybox-settings.php:1512
+msgid "Show title"
+msgstr "Ukázat název"
+
+#: easy-fancybox-settings.php:531 easy-fancybox-settings.php:787
+msgid "Close FancyBox when content is clicked"
+msgstr "Zavřít FancyBox po kliknutí na obsah"
+
+#: easy-fancybox-settings.php:524 easy-fancybox-settings.php:780
+msgid "Transparency fade during elastic transition. CAUTION: Use only when at least Transition In is set to Elastic!"
+msgstr "Průhlednost při elastickém přechodu. UPOZORNĚNÍ: Použijte pouze pokud máte Přechod nastaven na Elastický!"
+
+#: easy-fancybox-settings.php:517 easy-fancybox-settings.php:773
+msgid "Easing effects only apply when Transition is set to Elastic. "
+msgstr "Easing efekt je pouze použit když je Přechod nastaven na Pružný."
+
+#: easy-fancybox-settings.php:507 easy-fancybox-settings.php:763
+msgid "Easing Out"
+msgstr "Uvolnění z"
+
+#: easy-fancybox-settings.php:494 easy-fancybox-settings.php:750
+msgid "Transition Out"
+msgstr "Přechod ven"
+
+#: easy-fancybox-settings.php:487 easy-fancybox-settings.php:514
+#: easy-fancybox-settings.php:743 easy-fancybox-settings.php:770
+msgid "easeOutBack"
+msgstr "easeOutBack"
+
+#: easy-fancybox-settings.php:486 easy-fancybox-settings.php:513
+#: easy-fancybox-settings.php:742 easy-fancybox-settings.php:769
+msgid "easeInBack"
+msgstr "easeInBack"
+
+#: easy-fancybox-settings.php:485 easy-fancybox-settings.php:512
+#: easy-fancybox-settings.php:741 easy-fancybox-settings.php:768
+msgid "Swing"
+msgstr "Houpačka"
+
+#: easy-fancybox-settings.php:484 easy-fancybox-settings.php:511
+#: easy-fancybox-settings.php:740 easy-fancybox-settings.php:767
+msgid "Linear"
+msgstr "Lineární"
+
+#: easy-fancybox-settings.php:480 easy-fancybox-settings.php:736
+msgid "Easing In"
+msgstr "Uvolnění v"
+
+#: easy-fancybox-settings.php:473 easy-fancybox-settings.php:500
+#: easy-fancybox-settings.php:729 easy-fancybox-settings.php:756
+msgid "Elastic"
+msgstr "Elastický"
+
+#: easy-fancybox-settings.php:472 easy-fancybox-settings.php:499
+#: easy-fancybox-settings.php:728 easy-fancybox-settings.php:755
+msgid "Fade"
+msgstr "Slábnutí"
+
+#: easy-fancybox-settings.php:467 easy-fancybox-settings.php:723
+msgid "Transition In"
+msgstr "Přechod do"
+
+#: easy-fancybox-settings.php:456
+msgid "All image links"
+msgstr "Všechny odkazy obrázků"
+
+#: easy-fancybox-settings.php:451
+msgid "Apply to"
+msgstr "Použít na"
+
+#: easy-fancybox-settings.php:440 easy-fancybox-settings.php:806
+#: easy-fancybox-settings.php:931 easy-fancybox-settings.php:1025
+#: easy-fancybox-settings.php:1121 easy-fancybox-settings.php:1229
+#: easy-fancybox-settings.php:1329
+msgid "Autodetect"
+msgstr "Autodetekce"
+
+#: easy-fancybox-settings.php:425
+msgid "To make images open in an overlay, add their extension to the Autodetect field or use the class \"fancybox\" for its link. Clear field to switch off all autodetection."
+msgstr "Pro otevření obrázku v rámečku, přidejte jejich doplněk na Autodetekci nebo použijte \"fancybox\" pro jeho odkaz. Nechejte pole prázdné v případě vypnuté autodetekce."
+
+#: easy-fancybox-settings.php:380
+msgid "Include IE 8 compatibility style rules"
+msgstr "Zahrnout pravidla stylů pro podporu IE 8"
+
+#: easy-fancybox-settings.php:373
+msgid "Include IE 6 and 7 compatibility style rules"
+msgstr "Zahrnout pravidla stylů pro podporu IE 6 a 7"
+
+#: easy-fancybox-settings.php:344
+msgid "Browser & device compatibility"
+msgstr "Kompatibilita s prohlížeči a zařízeními"
+
+#: easy-fancybox-settings.php:338
+msgid "Miscellaneous"
+msgstr "Různé"
+
+#: easy-fancybox-settings.php:332 easy-fancybox-settings.php:645
+msgid "Duration in milliseconds. Higher is slower."
+msgstr "Trvání v milisekundách. Vyšší číslo znamená pomalejší."
+
+#: easy-fancybox-settings.php:323
+msgid "Closing speed"
+msgstr "Rychlost zavření"
+
+#: easy-fancybox-settings.php:311
+msgid "Opening speed"
+msgstr "Rychlost otevření"
+
+#: easy-fancybox-settings.php:307
+msgid "Scale large content down to fit in the browser viewport."
+msgstr "Zmenšit obsah okna na rozlišení monitoru."
+
+#: easy-fancybox-settings.php:300
+msgid "Esc key stroke closes FancyBox"
+msgstr "Stisk klávesy Esc zavře FancyBox"
+
+#: easy-fancybox-settings.php:293
+msgid "Center while scrolling"
+msgstr "Vycentrovat obsah při rolování"
+
+#: easy-fancybox-settings.php:286 easy-fancybox-settings.php:463
+msgid "Behavior"
+msgstr "Chování"
+
+#: easy-fancybox-settings.php:281
+msgid "If content size is not set or cannot be determined automatically, these default dimensions will be used."
+msgstr "Pokud není nastavena velikost obsahu nebo nemůže být získána automaticky budou použity tyto výchozí hodnoty nastavení."
+
+#: easy-fancybox-settings.php:249
+msgid "Dimensions"
+msgstr "Rozměry"
+
+#: easy-fancybox-settings.php:236
+msgid "Border radius"
+msgstr "Šíře okraje"
+
+#: easy-fancybox-settings.php:231 easy-fancybox-settings.php:447
+msgid "Example:"
+msgstr "Příklad:"
+
+#: easy-fancybox-settings.php:231
+msgid "Use RGBA notation for semi-transparent borders."
+msgstr "Pro poloprůhledné okraje použít RGBA zápis."
+
+#: easy-fancybox-settings.php:231 easy-fancybox-settings.php:517
+#: easy-fancybox-settings.php:592 easy-fancybox-settings.php:773
+msgid "Note:"
+msgstr "Poznámka:"
+
+#: easy-fancybox-settings.php:227
+msgid "Border color"
+msgstr "Barva okraje"
+
+#: easy-fancybox-settings.php:218
+msgid "Title color"
+msgstr "Barva názvu"
+
+#: easy-fancybox-settings.php:208
+msgid "Text color"
+msgstr "Barva textu"
+
+#: easy-fancybox-settings.php:198
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: easy-fancybox-settings.php:193
+msgid "Show the (X) close button"
+msgstr "Ukázat (X) tlačítko pro zavření"
+
+#: easy-fancybox-settings.php:186 easy-fancybox-settings.php:535
+msgid "Appearance"
+msgstr "Vzhled"
+
+#: easy-fancybox-settings.php:180
+msgid "Window"
+msgstr "Okno"
+
+#: easy-fancybox-settings.php:175 easy-fancybox-settings.php:213
+#: easy-fancybox-settings.php:244 easy-fancybox-settings.php:574
+#: easy-fancybox-settings.php:663
+msgid "Make available &raquo;"
+msgstr "Zpřístupnit &raquo;"
+
+#: easy-fancybox-settings.php:175
+msgid "Spotlight effect"
+msgstr "Efekt světelného kuželu"
+
+#: easy-fancybox-settings.php:167
+msgid "Enter an HTML color value."
+msgstr "Vložte kód barvy v HTML."
+
+#: easy-fancybox-settings.php:162
+msgid "Color"
+msgstr "Barva"
+
+#: easy-fancybox-settings.php:158 easy-fancybox-settings.php:167
+#: easy-fancybox-settings.php:231 easy-fancybox-settings.php:281
+#: easy-fancybox-settings.php:332 easy-fancybox-settings.php:645
+msgid "Default:"
+msgstr "Výchozí:"
+
+#: easy-fancybox-settings.php:158
+msgid "Value between 0 and 1. "
+msgstr "Hodnota mezi 0 a 1."
+
+#: easy-fancybox-settings.php:150
+msgid "Opacity"
+msgstr "Neprůhlednost"
+
+#: easy-fancybox-settings.php:146
+msgid "Close FancyBox when overlay is clicked."
+msgstr "Zavřít FancyBox při kliknutí na rámeček."
+
+#: easy-fancybox-settings.php:139
+msgid "Show the overlay around content opened in FancyBox."
+msgstr "Ukazovat rámeček kolem obsahu otevřeného ve FancyBox."
+
+#: easy-fancybox-settings.php:130 easy-fancybox-settings.php:553
+msgid "Overlay"
+msgstr "Rámeček"
+
+#: easy-fancybox-settings.php:125
+msgid "Include the Metadata jQuery extension script to allow passing custom parameters via link class."
+msgstr "Vložit Metadata jQuery doplněk, který umožnuje přeskočení vlastním parametrů přes link class."
+
+#: easy-fancybox-settings.php:118 easy-fancybox-settings.php:459
+#: easy-fancybox-settings.php:490 easy-fancybox-settings.php:517
+#: easy-fancybox-settings.php:592 easy-fancybox-settings.php:746
+#: easy-fancybox-settings.php:773
+msgid "More options &raquo;"
+msgstr "Více nastavení &raquo;"
+
+#: easy-fancybox-settings.php:115
+msgid "Link with ID \"fancybox-auto\""
+msgstr "Propojit s ID \"fancybox-auto\""
+
+#: easy-fancybox-settings.php:109
+msgid "Open on page load"
+msgstr "Otevřít při načtení stránky"
+
+#: easy-fancybox-settings.php:102
+msgid "Without thumbnail image"
+msgstr "Obrázky bez náhledu"
+
+#: easy-fancybox-settings.php:101
+msgid "Empty (hidden) links"
+msgstr "Prázdné (skryté) odkazy"
+
+#: easy-fancybox-settings.php:95
+msgid "Exclude"
+msgstr "Vynechat"
+
+#: easy-fancybox-settings.php:86
+msgid "For advanced options and support, please get the Easy FancyBox - Pro extension."
+msgstr "Pro pokročilé možnosti a podporu prosím zakupte Easy FancyBox - Pro rozšíření."
+
+#: easy-fancybox-settings.php:55 easy-fancybox-settings.php:1012
+msgid "SVG"
+msgstr "SVG"
+
+#: easy-fancybox-settings.php:20
+msgid "Enable FancyBox for"
+msgstr "Povolit FancyBox pro"
+
+#: easy-fancybox-settings.php:14
+msgid "Media"
+msgstr "Média"
+
+#: easy-fancybox-class.php:636
+msgid "Credits"
+msgstr "Poděkování"
+
+#: easy-fancybox-class.php:634
+msgid "Resources"
+msgstr "Zdroje"
+
+#: easy-fancybox-class.php:633
+msgid "Support"
+msgstr "Podpora"
+
+#: easy-fancybox-class.php:605 easy-fancybox-settings.php:83
+#: easy-fancybox-settings.php:1441
+msgid "iFrames"
+msgstr "iFrames"
+
+#: easy-fancybox-class.php:604 easy-fancybox-settings.php:76
+#: easy-fancybox-settings.php:1315
+msgid "Dailymotion"
+msgstr "Dailymotion"
+
+#: easy-fancybox-class.php:603 easy-fancybox-settings.php:69
+#: easy-fancybox-settings.php:1215
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: easy-fancybox-class.php:602 easy-fancybox-settings.php:62
+#: easy-fancybox-settings.php:1107
+msgid "YouTube"
+msgstr "YouTube"
+
+#: easy-fancybox-class.php:601 easy-fancybox-settings.php:48
+#: easy-fancybox-settings.php:918
+msgid "SWF"
+msgstr "SWF"
+
+#: easy-fancybox-class.php:600 easy-fancybox-settings.php:41
+#: easy-fancybox-settings.php:793
+msgid "PDF"
+msgstr "PDF"
+
+#: easy-fancybox-class.php:599 easy-fancybox-settings.php:34
+#: easy-fancybox-settings.php:683
+msgid "Inline content"
+msgstr "Vnitřní obsah"
+
+#: easy-fancybox-class.php:598 easy-fancybox-settings.php:27
+#: easy-fancybox-settings.php:420
+msgid "Images"
+msgstr "Obrázky"
+
+#: easy-fancybox-class.php:597 easy-fancybox-settings.php:9
+msgid "Global settings"
+msgstr "Nastavení"
+
+#: easy-fancybox-class.php:596
+msgid "Sections"
+msgstr "Sekce"
+
+#: easy-fancybox-class.php:587
+msgid "Easy FancyBox Settings"
+msgstr "Easy FancyBox Nastavení"
+
+#: easy-fancybox-class.php:397
+msgid "Unchecked"
+msgstr "Nezaškrtnutý"
+
+#: easy-fancybox-class.php:395
+msgid "Checked"
+msgstr "Zaškrtnutý"
+
+#: easy-fancybox-class.php:351
+msgid "Some setting like Transition options are unavailable for SWF video, PDF and iFrame content to ensure browser compatibility and readability."
+msgstr "Některé nastavení jako je nastavení Přechodu jsou nedostupné pro SWF video, PDF a iFrame obsah pro zajištění kompatibility a funkčnosti v prohlížeči."
+
+#: easy-fancybox-class.php:351
+msgid "Note: Each additional sub-section and features like <em>Auto-detection</em>, <em>Elastic transitions</em> and all <em>Easing effects</em> (except Swing) will have some extra impact on client-side page speed. Enable only those sub-sections and options that you actually need on your site."
+msgstr "Poznámka: Každá subsekce a funkce jako jsou <em>Autodetekce</em>, <em>Elastický přechod</em> a všechny <em>Easing efekty</em> (kromě Swing) budou mít velký dopad na rychlost načtení u klienta. Povolte pouze tyto subsekce a toto nastavení pokud víte co děláte a tyto funkce potřebujete."
+
+#: easy-fancybox-class.php:351
+msgid "First enable each sub-section that you need. Then save and come back to adjust its specific settings."
+msgstr "Prvně povolte pro každou subsekci, pro kterou je potřeba. Poté uložte a vraťte se zpět pro doladění nastavení."
+
+#: easy-fancybox-class.php:351 easy-fancybox-class.php:547
+#: easy-fancybox-class.php:587
+msgid "FancyBox"
+msgstr "FancyBox"
+
+#. #-#-#-#-#  tmp-easy-fancybox.pot (Easy FancyBox 1.5.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: easy-fancybox-class.php:351
+msgid "Easy FancyBox"
+msgstr "Easy FancyBox"
+
+#: easy-fancybox-class.php:351
+msgid "The options in this section are provided by the plugin %s and determine the <strong>Media Lightbox</strong> overlay appearance and behaviour controlled by %s."
+msgstr "Nastavení v této sekci jsou poskytovány pluginem %s a ovlivňují <strong>Media Lightbox</strong> vzhled rámečku a funkce kontrolováné %s."
+
+#: easy-fancybox-class.php:351
+msgid "Donate to keep the Easy FancyBox plugin development going!"
+msgstr "Přispět na podporu Easy FancyBox pluginu a umožnit tak jeho další vývoj!"

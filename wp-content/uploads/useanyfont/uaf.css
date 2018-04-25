@@ -1,0 +1,13 @@
+			@font-face {
+				font-family: 'isocpeur';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/171125025119Isocpeur.eot');
+				src: local('isocpeur'), url('/wp-content/uploads/useanyfont/171125025119Isocpeur.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/171125025119Isocpeur.woff') format('woff');
+			}
+            
+            .isocpeur{font-family: 'isocpeur' !important;}
+            
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a, div, input{
+					font-family: 'isocpeur' !important;
+				}
+		
